@@ -9,7 +9,6 @@ gsap.from ('.menu-img', {
     ease: "bounce.out",
     scrollTrigger: {
         trigger: ".menu-img",
-        markers: true,
     }
 
 
@@ -21,7 +20,6 @@ gsap.from ('.content', {
     ease: "bounce.out",
     scrollTrigger: {
         trigger: ".content",
-        markers: true,
     }
 
 
